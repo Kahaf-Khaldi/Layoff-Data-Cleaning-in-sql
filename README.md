@@ -1,4 +1,3 @@
-# Layoff-Data-Cleaning-in-sql
 # Layoff Data Cleaning SQL Project
 
 This project cleans a layoff dataset using SQL. The raw dataset contains company layoff data with duplicates, inconsistent formatting, and missing or null values. The goal is to standardize, deduplicate, and prepare the data for further analysis.
